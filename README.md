@@ -2,7 +2,7 @@
 # OrangeHRM : Performance & Security Testing
 
 ## 📌 Project Overview
-This project was part of the **Software Testing and Quality Assurance (STQA)** course, focused on evaluating the **performance** and **security** of the OrangeHRM application, an open-source HR management system.  
+This project was part of a **Software Testing and Quality Assurance (STQA) project, focused on evaluating the **performance** and **security** of the OrangeHRM application, an open-source HR management system.  
 
 The project aimed to:  
 - Assess **system scalability and performance** under varying loads.  
